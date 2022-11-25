@@ -1,6 +1,8 @@
 # Old can be Gold: Better Gradient Flow can make Vanilla-GCNs Great Again
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
+https://arxiv.org/abs/2210.08122
+
 ## Abstract
 
 Despite the enormous success of Graph Convolutional Networks (GCNs) in mod-
